@@ -134,7 +134,7 @@ To configure the LM of your choice, follow these steps:
 1. **Using the Makefile: The Effortless Approach**
    With a single command, you can have a smooth LM setup for your OpenDevin experience. Simply run:
    ```bash
-   make setup-config
+                            make setup-config
    ```
    This command will prompt you to enter the LLM API key and model name, ensuring that OpenDevin is tailored to your specific needs.
 
